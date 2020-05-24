@@ -1,6 +1,6 @@
-# notes.aravindballa.com
+# Dyeing The Blue Book
 
-Uses https://github.com/aravindballa/gatsby-theme-andy/
+A new kind of associative structure for a new kind of digital book.
 
 ## Running the project
 

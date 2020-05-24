@@ -3,37 +3,38 @@
 
 body {
   height: 100vh;
+  background-color: rgb(0, 0, 0);
 }
 
 h1 {
-  @apply text-3xl font-bold;
+  @apply text-3xl text-white font-bold;
 }
 h2 {
-  @apply text-xl font-bold;
+  @apply text-2xl text-white font-bold;
 }
 h3 {
-  @apply font-bold;
+  @apply text-xl text-white font-bold;
+}
+h5 {
+  @apply text-indigo-600 font-bold;
 }
 a {
-  @apply text-blue-600 underline;
+  @apply text-white underline;
 }
 a:hover {
   @apply text-blue-700 no-underline;
 }
 p {
-  @apply mb-4;
+  @apply mb-4 text-white;
 }
 
 ul {
-  @apply list-disc pl-6;
+  @apply list-disc pl-6 text-white;
 }
 
 hr {
   @apply my-4;
-}
-
-.refs-box a {
-  @apply text-gray-600;
+  margin: 1rem 6rem;
 }
 
 blockquote {
@@ -53,6 +54,11 @@ pre {
 
 pre > code {
   @apply p-0 m-0 mb-2 bg-transparent;
+}
+
+.container {
+  border-right: 1px solid rgb(255,255,255);
+  border-left: 1px solid rgb(255,255,255);
 }
 
 @tailwind components;
@@ -78,7 +84,7 @@ pre > code {
 @tailwind utilities;
 
 .highlight {
-  @apply bg-yellow-200 px-1 -mx-1 rounded;
+  @apply bg-indigo-600 px-1 -mx-1 rounded;
 }
 
 .handwritten-notes-img {

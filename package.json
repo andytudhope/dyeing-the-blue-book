@@ -1,14 +1,15 @@
 {
-  "name": "@aravindballa/notes",
-  "version": "1.0.0",
+  "name": "dyeing-the-blue-book",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "gatsby build",
-    "start": "gatsby develop"
+    "start": "gatsby develop",
+    "clean": "gatsby clean"
   },
   "keywords": [],
-  "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
+  "author": "Andy Tudhope <andy@status.im> (https://andytudhope.africa)",
   "license": "MIT",
   "dependencies": {
     "@tippyjs/react": "^4.0.2",
