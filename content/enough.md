@@ -3,7 +3,7 @@ title: Dayenu
 ---
 
 You greeted me, brother,  
-looked me in both eyes,  
+looked me in both [[eye]]s,  
 then pulled me to your chest  
 of [[light]],  
 fulfilling His first and final promise:  

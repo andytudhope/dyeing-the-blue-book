@@ -6,7 +6,7 @@ I saw the whole line
 before coming here to write this,  
 sitting quietly at a fire  
 waiting for the [[moon]],   
-when you looked into my eyes  
+when you looked into my [[eye]]s  
 and all we were before  
 stretched around the scattered stars  
 in one great cosmic circle  

@@ -2,8 +2,8 @@
 title: Secret Garden II
 ---
 
-A pair of white wings wafts by  
-as you tell me to look into the eye of the Be[[love]]d,  
+A pair of [[white]] wings wafts by  
+as you tell me to look into the [[eye]] of the Be[[love]]d,  
 and the palm leaves waltz lazily in [[light]] wind  
 [[will]]ing these few words meant to let go  
 of everything, for there is no meaning  

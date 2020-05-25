@@ -6,7 +6,7 @@ title: Light Child
 
 ---
 
-[[Real]]ity conforms to your deepest hopes,  
+[[Real]]ity conforms to your deepest [[hope]]s,  
 sweet child, poking your finger  
 in My wound, a hole of light in the light.  
   

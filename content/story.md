@@ -31,7 +31,7 @@ as I step onto the beach,
 my monarch guide gracing the single  
 piece of driftwood drawing itself,  
 inch by tidal inch, back to whence it came  
-and now everything is glowing white  
+and now everything is glowing [[white]]  
 across the glimmering waves,  
 which mark their passing on these empty miles   
 and I can barely bring my[[self]]   
@@ -45,7 +45,7 @@ impressively persistent, pointing out
 that it's [[not]] my story, but hers:  
 a tale of how she found a human   
 who could hear her, and hauled him  
-before the morning [[light]] so he could learn  
+before the morning light so he could learn  
 what a moment means and how she still  
 had to come back, and get trapped,  
 just so she could remind him - silly man! -  

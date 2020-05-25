@@ -10,7 +10,7 @@ And I gathered fragments of blue dense" - Joseph Cornell
 Sometimes, there [[will]] [[be]] sorrow,  
 but then you'll stand again,  
 as if you were al[[way]]s standing,  
-eyes cast down in humility  
+[[eye]]s cast down in humility  
 before the grand [[blue]] solitude  
 of [[sea]].  
   

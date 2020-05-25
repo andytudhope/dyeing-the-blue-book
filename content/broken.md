@@ -7,7 +7,7 @@ all the broken pieces,
 go gather them up.  
   
 Tonight, we make a bonfire  
-with but a single hope:  
+with but a single [[hope]]:  
 to get it. To really, [[real]]ly  
 get it.  
   

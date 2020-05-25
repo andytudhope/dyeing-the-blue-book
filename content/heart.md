@@ -18,4 +18,8 @@ how to say no without hardening,
 how to [[be]] neither helper nor helped?  
   
 Just the help,  
-at home in horrible beauty.  
+at home in horrible beauty. 
+
+### Traces
+
+* [An-Nasr](https://quran.com/110)

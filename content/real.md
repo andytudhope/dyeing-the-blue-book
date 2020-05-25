@@ -21,7 +21,7 @@ so I give up
 my desire for small [[love]]  
 and spend this little time  
 learning how to fly,  
-and why heaven has boundaries,  
+and why [[heaven]] has boundaries,  
 and how to be with trees  
 or body surf [[blue]] clarity.  
   

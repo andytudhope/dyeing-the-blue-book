@@ -14,8 +14,8 @@ as two hadedas scream the Name
 and a starling unfolds its red-winged [[song]]  
 backed by a small choir of bush shrikes,   
 believing their place to be [[now]]here   
-but here, [[be]]holding heaven  
-behind closed eyes as the clouds bleed  
+but here, beholding [[heaven]]  
+behind closed [[eye]]s as the clouds bleed  
 crimson and a thousand other colours beside,  
 breaking in waves which bring back  
 a brave diver drenched by the depths,   

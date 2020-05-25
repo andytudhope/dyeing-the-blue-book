@@ -3,7 +3,7 @@ title: Not That
 ---
 
 It's not the endless play of [[light]]  
-when you close your eyes,   
+when you close your [[eye]]s,   
 nor how every cell seems to open   
 into peace.  
   

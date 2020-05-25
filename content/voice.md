@@ -2,6 +2,10 @@
 title: Other Voice
 ---
 
+"The dye is Allah's. And who is better at dyeing than Allah? Him do we serve." 2:138
+
+---
+
 "The colour of my [[love]] is deep and permanent." — Mirabai  
 
 ---
@@ -54,7 +58,7 @@ by love." — Sappho
 ---
 
 "Dusk inks the crystal ripples.  
-Leisurely the white moon comes out.  
+Leisurely the [[white]] moon comes out.  
 Tonight I am with my oar, alone, and cad do  
     everything  
 yet waver, not willing to return." — Wang Wei  
@@ -72,6 +76,17 @@ for love is as strong as death." — The Song of Songs
 ---
 
 "As a poet of the sublime, of the bliss of Edenic companionship, of the whirlwind blast and burn of rapture, of paralysis before impossible love, she confides her words to Aphrodite, and to us. She writes prophetically, 'Someone, I tell you, [[will]] remember us'." — Willis Barnstone, describing Sappho  
+
+---
+
+"I am a man: little do I last  
+and the night is enormous.  
+But I look up:  
+the stars write.  
+Unknowing I understand:  
+I too am written,  
+and at this very moment  
+someone spells me out." — Octavio Paz  
 
 ---
 
@@ -213,10 +228,14 @@ Although I suffer a dark night
 in mortal life, I also know  
 my agony is slight, for though  
 I am in darkness without light,  
-a clear heavenly life I know;  
+a clear [[heaven]]ly life I know;  
 for love gives power to my life,  
 however black and blind my day,  
 to yield my soul, and free of strife  
 to rest - living darkly with no ray." — St John of the Cross  
+
+---
+
+"When his Lord said to him: Submit! He said: I submit myself to the Lord of all the worlds." 2:131
 
 ---

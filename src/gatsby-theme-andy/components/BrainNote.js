@@ -162,12 +162,14 @@ const BrainNote = ({ note, index = 0, stackedNote, almostHidden }) => {
           <div className="refs-box bg-gray-900 text-gray-600 rounded-lg mb-4 p-4">
             {referenceBlock}
             <p className="text-sm m-0">
-              If this piece resonated @ me on{' '}
+              Explore the full {' '}
+              <a href="#" target="_blank" rel="noopener noreferrer">
+                YouTube playlist
+              </a>{' '}
+              or @ me on{' '}
               <a href="https://twitter.com/cryptowanderer" target="_blank" rel="noopener noreferrer">
                 Twitter
-              </a>{' '}
-              or send me an <a href="mailto:andy@status.com">email</a> and we can
-              talk.
+              </a>{' '} with any questions.
             </p>
           </div>
         </div>

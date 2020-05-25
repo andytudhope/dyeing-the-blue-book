@@ -1,5 +1,5 @@
 ---
-title: Tree's Way
+title: Sibghatallah
 ---
 
 Two trees guard either end  
@@ -34,7 +34,7 @@ where land meets sea so that
 up and down seem the same;  
 and my [[soul]] sang as three  
 cormorants flew over in salute;  
-and I found one white feather,  
+and I found one [[white]] feather,  
 [[not]] to be picked up, just to [[be]] seen  
 as pointing the way home  
 here, where the ands go on forever.   

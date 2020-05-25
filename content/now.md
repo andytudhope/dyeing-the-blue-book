@@ -11,7 +11,7 @@ no longer scared of the headless king
 riding down this [[line]]  
 clattering spears and screaming death,  
 nor avoiding our mounting doom  
-and the fool's hope we wouldn't fail,  
+and the fool's [[hope]] we wouldn't fail,  
 finally in that fiery [[heart]],  
 unconcerned by the offerings of angels  
 or the vacant void, just one  
