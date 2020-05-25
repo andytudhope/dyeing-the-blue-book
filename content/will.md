@@ -18,7 +18,11 @@ makes the [[mercy]] of no escape
 silver clear:  
 no beginning, no end,   
 [[now]]here to [[be]]  
-but here,   
+but [[here]],   
 where even crickets insist  
 on the scented eternity   
 of this evening.   
+
+---
+
+### Traces

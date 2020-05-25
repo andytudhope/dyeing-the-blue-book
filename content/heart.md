@@ -7,7 +7,7 @@ and the most harrowing images
 were hauled up in the middle  
 of a slide about risk and exposure.  
   
-Here again is the whole [[story]]:  
+[[Here]] again is the whole [[story]]:  
 the dark side of [[love]]  
 allowed without being  
 welcomed.  
@@ -20,6 +20,10 @@ how to [[be]] neither helper nor helped?
 Just the help,  
 at home in horrible beauty. 
 
+---
+
 ### Traces
 
 * [An-Nasr](https://quran.com/110)
+
+* [What can I do?](https://www.youtube.com/watch?v=lE5arf6PQCo)

@@ -75,7 +75,7 @@ for love is as strong as death." — The Song of Songs
 
 ---
 
-"As a poet of the sublime, of the bliss of Edenic companionship, of the whirlwind blast and burn of rapture, of paralysis before impossible love, she confides her words to Aphrodite, and to us. She writes prophetically, 'Someone, I tell you, [[will]] remember us'." — Willis Barnstone, describing Sappho  
+"As a poet of the sublime, of the bliss of Edenic companionship, of the whirlwind blast and burn of rapture, of paralysis before impossible love, she confides her words to Aphrodite, and to us. She writes prophetically, 'Someone, I tell you, [[will]] [[remember]] us'." — Willis Barnstone, describing Sappho  
 
 ---
 
@@ -162,7 +162,7 @@ for in them is a [[burn]]ing lamp." — Wang Wei
 ---
 
 "rise singing, praising back to pur relation.  
-Be here among the vanished; near the tree  
+Be [[here]] among the vanished; near the tree  
 of death, be ringing glass that shatters even  
   
 as it rings. Know conditions of nonbeing,  

@@ -17,3 +17,9 @@ deep beneath the black keystone,
 only to [[be]] [[broken]] free  
 by this prehistoric holy fire,   
 returned to sing its imperfection.   
+
+---
+
+### Traces
+
+* [Working with this light](https://www.youtube.com/watch?v=wDywF8sOKD8)

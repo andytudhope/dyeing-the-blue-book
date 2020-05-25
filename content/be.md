@@ -21,3 +21,9 @@ or sit at a loser's last supper
 and trust that [[love]] al[[read]]y won:  
 that this is the signed [[will]] and testament  
 if you can see it for your[[self]]?  
+
+---
+
+## Traces
+
+* [Everything you do is a work of art](https://www.youtube.com/watch?v=Q57xFhaZYxw)

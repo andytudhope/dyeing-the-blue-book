@@ -22,4 +22,12 @@ where she soared back
 to seeming separation  
 as the sun set sail into  
 an orange matched only by her  
-bright chest.   
+bright chest.  
+
+![Light Sail](./static/light-sail.jpg)
+
+---
+
+### Traces
+
+* [The healing we took birth for](https://www.youtube.com/watch?v=HyEsMMPS_OQ)

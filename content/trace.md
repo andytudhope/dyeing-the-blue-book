@@ -2,7 +2,7 @@
 title: Traces
 ---
 
-[The Blue Book](https://thebluebook.co.za/fugue-i/#No-more-audiences) includes an explanation of why "traces" matter in literary terms, citing Jacques Derrida and his seminal essay, "Signature, Event, Context". By following the etymological roots of our words and tracing the different routes they have taken through various languages and times, we can come to a deeper appreciation of the meaning inherent in each utterance, and expand the signification of each sentence.
+[The Blue Book](https://thebluebook.co.za/fugue-i/#No-more-audiences) includes an explanation of why "traces" matter in literary terms, citing Jacques Derrida and his seminal essay, "Signature, Event, Context". By following the etymological roots of our words and tracing the different routes they have taken through various languages and times, we can come to a deeper appreciation of the meaning in[[here]]nt in each utterance, and expand the signification of each sentence.
 
 In modern languages, though, this is a largely intellectual exercise and most people don't like poor Jacques' academic prose. However, older languages - in particular Arabic, Hebrew and Arameic - come with this notion of _trace_ and _differance_ built-in. Each word in these Semitic tongues is made up of a "[consonantal root](https://en.wikipedia.org/wiki/Semitic_root)" that it shares with many other words, which often have almost exactly the opposite meaning. The fact that each [[root]] calls to mind so many other meanings simultaneous to the actual utterance itself means that each Semtic word carries a far larger signficatory field than their English (or Latinate) equivalents. 
 

@@ -13,7 +13,7 @@ with each new [[line]] about how she led me,
 first [[through]] yellow flowers where she fed  
 on a smell somewhere between  
 carrion and butter, as if [[death]]'s delicacy  
-were living right here at the dune's summit,  
+were living right [[here]] at the dune's summit,  
 and then deeper through the forest  
 where we found a shy duiker  
 who finally chose to show himself.  
@@ -52,3 +52,9 @@ just so she could remind him - silly man! -
 to make his [[way]] back to [[simple]] words:   
 his holy unimportant duty  
 which has deepened into joy.  
+
+---
+
+### Traces
+
+* [Go on living with it](https://www.youtube.com/watch?v=eyn9kmuIwqA)

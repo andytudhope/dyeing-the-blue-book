@@ -37,7 +37,7 @@ cormorants flew over in salute;
 and I found one [[white]] feather,  
 [[not]] to be picked up, just to [[be]] seen  
 as pointing the way home  
-here, where the ands go on forever.   
+[[here]], where the ands go on forever.   
   
 So I came back  
 to this guardian tree  
@@ -48,5 +48,11 @@ carved outside time
 in a trunk that [[remember]]s stillness  
 and [[will]] show you  
 if you simply have the courage  
-to reach out and ask.   
+to reach out and ask.  
+
+---
+
+### Traces
+
+* [Here's where the stories live, here with the peace](https://www.youtube.com/watch?v=-oWB8f-Ov7k&lc=Ugh4psaHeUv5CngCoAEC)
 

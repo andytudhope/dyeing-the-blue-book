@@ -2,7 +2,7 @@
 title: Holy See
 ---
 
-Here I sit, watching
+[[Here]] I sit, watching
 the [[sea]], hungry and fearful
 and utterly fulfilled.
 
@@ -24,6 +24,8 @@ which holds no doubt
 that our [[light]] goes on
 forever.
 
+---
+
 ### Traces
 
-[Enter One](https://www.youtube.com/watch?v=zrdezG6c6HM)
+* [Enter One](https://www.youtube.com/watch?v=zrdezG6c6HM)

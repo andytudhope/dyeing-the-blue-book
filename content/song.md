@@ -15,7 +15,7 @@ before the grand [[blue]] solitude
 of [[sea]].  
   
 And just to have seen it,  
-to have been brought here  
+to have been brought [[here]]  
 in your chains and shown  
 that there is no choice,  
 that the stone [[self]]  
@@ -27,3 +27,7 @@ song about Lazarus,
 all of it meant  
 to make this [[life]]   
 entirely remarkable.  
+
+---
+
+### Traces

@@ -4,7 +4,7 @@ title: Real Dream
 
 [[Burn]]ing day: set a[[light]]  
 by how we danced last night,  
-feeling you right here, held  
+feeling you right [[here]], held  
 against me while we moved  
 as one.  
   
@@ -27,3 +27,9 @@ or body surf [[blue]] clarity.
   
 Before two final bows  
 and the end in our beginning.  
+
+---
+
+### Traces
+
+* [Magic horses](https://www.youtube.com/watch?v=Y7ThW3BKY_w)

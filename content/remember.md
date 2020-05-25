@@ -7,7 +7,7 @@ and You are everyone and
 everything and all  
 that comes between, split up  
 in the seemingly im-  
-perfect ways it al[[way]]s   
+perfect [[way]] it always   
 was and will [[be]], until you [[wander]] in  
 and drown beneath the weight  
 of that first Word, this final  
@@ -22,4 +22,10 @@ were never alone,
 at the end of everything  
 and - in your laughing tear  
 a crack - the coming dawn,  
-our promised due.   
+our promised due.  
+
+---
+
+### Traces
+
+* [The reason for you and I](https://www.youtube.com/watch?v=4BtqElO1OX4)

@@ -20,3 +20,9 @@ turning in its timeless tempo
 to touch the [[moon]]'s message:  
   
 There is only [[truth]].   
+
+---
+
+### Traces
+
+* [Allah's is the east and the west](https://www.youtube.com/watch?v=7F5HND4F6Fo)

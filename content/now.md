@@ -16,9 +16,15 @@ finally in that fiery [[heart]],
 unconcerned by the offerings of angels  
 or the vacant void, just one  
 perpetual vessel  
-here to trumpet victory  
+[[here]] to trumpet victory  
 as the [[Voice]] rings out over  
 my unmarked grave where I've grown  
 used to living [[death]]:  
   
 "Now [[be]] it".   
+
+---
+
+### Traces
+
+* [Ride for ruin](https://www.youtube.com/watch?v=EmTz7EAYLrs)

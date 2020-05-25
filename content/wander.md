@@ -7,7 +7,7 @@ a great, unmissable [[way]]
 and we walkers  
 of the wilderness within  
 without which we won't survive,  
-here to do the work  
+[[here]] to do the work  
 and trust we'll find Your track  
 as we wander, lost,  
 [[through]] the gift of an ebony grove  
@@ -18,6 +18,8 @@ this wonder is for a wary few,
 wide awake to the way it all  
 [[will]]s us to listen.  
 
+---
+
 ### Traces
 
-[How Great Thou Art](https://boydvarty.com/17-day-15-storming/)
+* [How Great Thou Art](https://boydvarty.com/17-day-15-storming/)

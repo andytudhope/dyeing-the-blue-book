@@ -28,8 +28,10 @@ and say a [[simple]] [[prayer]] of thanks
 with what was thorn and pebble,  
   
 finally given one  
-moment of human consciousness. 
+moment of human consciousness.  
+
+---
 
 ### Traces
 
-[Step forward](https://youtu.be/pdb6t2FcpMU?t=43)
+* [Step forward](https://youtu.be/pdb6t2FcpMU?t=43)

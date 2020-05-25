@@ -5,7 +5,7 @@ title: Servate Fidem
 Life goes on forever,  
 whether you ack[[now]]ledge it or not.  
   
-It's love we're here  
+It's love we're [[here]]  
 to service: one purring [[heart]]  
 stripped down to bare parts  
 on a steep and narrow path  
@@ -23,3 +23,7 @@ the stars themselves apart
   
 until that last annihilation,  
 first breath of [[life]].  
+
+---
+
+### Traces

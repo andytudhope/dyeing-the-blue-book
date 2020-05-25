@@ -14,4 +14,8 @@ split the second it took to [[read]] this
 and slip into your [[heart]],  
 the sacred House of God,  
 our secret garden,  
-here for all to see.     
+[[here]] for all to see.   
+
+---
+
+### Traces
