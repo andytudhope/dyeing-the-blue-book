@@ -38,7 +38,7 @@ and I am his." — The Song of Songs
 
 ---
 
-"If the veil was lifted I could not be any more certain." — Hadith qudsi
+"If the veil was lifted I could not be any more certain." — Iman \`Ali
 
 ---
 
