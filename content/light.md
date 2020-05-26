@@ -17,7 +17,7 @@ water heaving its generous [[truth]] amidst
 all this endless [[grace]].  
   
 Will you [[remember]] then  
-the covenant you witnessed  
+the covenant you [[witness]]ed  
 when I asked if you could bear Me  
 cutting My[[self]]?   
 

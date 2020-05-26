@@ -35,3 +35,5 @@ woken up in God.
 ---
 
 ### Traces
+
+* [The Narrow Path That is Not](https://www.youtube.com/watch?v=Ea8sY_GvOZ0)

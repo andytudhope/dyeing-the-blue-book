@@ -2,7 +2,7 @@
 title: Moon Strike
 ---
 
-Tonight, the waning [[moon]]  
+Tonight, the waning moon  
 rose into a [[light]]ning storm,  
 rolling thunder over a [[white]] water road:  
 these few words my [[hope]]less offering  
@@ -14,5 +14,7 @@ struck by night's k[[now]]ing.
 ---
 
 ### Traces
+
+* [Dark twin](https://emergencemagazine.org/story/mud-and-antler-bone/)
 
 

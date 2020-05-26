@@ -58,6 +58,17 @@ const BrainNoteContainer = ({ note }) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{note.title} - Dyeing The Blue Book</title>
+        <meta property="og:site_name" content="Dyeing" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Dyeing The Blue Book" />
+        <meta property="og:image" content="https://dyeing.thebluebook.co.za/static/nyanga.jpg" />
+        <meta property="og:description" content="The colour of Allah is upon us! And what better dye than that of Allah." />
+        <meta property="og:url" content="https://dyeing.thebluebook.co.za" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:creator" content="@cryptowanderer" />
+        <meta name="twitter:description" content="The colour of Allah is upon us! And what better dye than that of Allah." />
+        <meta name="twitter:image" content="https://living.thebluebook.co.za/static/nyanga.jpg" />
+        <meta name="twitter:image:alt" content="Dyeing The Blue Book" />
       </Helmet>
       <div id="brainNote" className="text-gray-900 flex flex-col min-h-screen h-screen">
         <div className="font-bold py-2 border-b px-4">
@@ -163,10 +174,15 @@ const BrainNote = ({ note, index = 0, stackedNote, almostHidden }) => {
             {referenceBlock}
             <p className="text-sm m-0">
               Explore the full {' '}
-              <a href="#" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.youtube.com/playlist?list=PL5ClmaG2tnPM3sgzhHmEhxitzdX0latyD" target="_blank" rel="noopener noreferrer">
                 YouTube playlist
-              </a>{' '}
-              or @ me on{' '}
+              </a>{' '} or
+              <a href="https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK" target="_blank" rel="noopener noreferrer">
+                The Blue Book playlist
+              </a>{' '} or the
+              <a href="https://www.youtube.com/playlist?list=PL5ClmaG2tnPOSeeVkPwtLIh5UjjFHcTKj" target="_blank" rel="noopener noreferrer">
+                Living playlist
+              </a>. You can also @ me on{' '}
               <a href="https://twitter.com/cryptowanderer" target="_blank" rel="noopener noreferrer">
                 Twitter
               </a>{' '} with any questions.

@@ -2,11 +2,15 @@
 title: Other Voice
 ---
 
-"The dye is Allah's. And who is better at dyeing than Allah? Him do we serve." 2:138
+"The colour of Allah is upon us! And what better dye than that of Allah. It is Him we worship." 2:138
 
 ---
 
 "The colour of my [[love]] is deep and permanent." — Mirabai  
+
+---
+
+"Allah is not loved but by Allah, Allah is not known but by Allah, Allah is not remembered but by Allah, and there is nothing in existence but Allah, His names, His attributes and His works. Thus, everything is Him, by Him, from Him, and to Him." — Hadith Qudsi
 
 ---
 
@@ -34,13 +38,29 @@ and I am his." — The Song of Songs
 
 ---
 
+"If the veil was lifted I could not be any more certain." — Hadith qudsi
+
+---
+
+"My Earth and My Heaven cannot contain Me, but the heart of My faithful servant contains Me." — Hadith Qudsi
+
+--
+
 "Out of all things comes oneness  
 and from oneness comes all things" — Herakleitos  
 
 ---
 
+"Allah has not placed two hearts within a man." (33:4)
+
+---
+
 "In one moment of attraction the beggar becomes the king and in one instant a mountain mass is reduced to straw.  
 Step out on the path of the master Muhammad's _mi'raj_ and delight in all the mighty signs." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī  
+
+---
+
+"Whoever acts without insight is like the one who chases after a mirage in the desert: his haste will only increase his distance." — Iman Ja\`far alSadiq
 
 ---
 
@@ -129,6 +149,10 @@ There is a gathering together and a dispersal contained in every breath.
 
 ---
 
+"True storytellers do not know their own story... Neither do they know anyone else's story in its entirety. The primary work of historians \[[...\] is to reveal continuity where we have assumed something to be ended." — James Carse
+
+---
+
 "Who pours out like a spring knows cognizance;  
 who leads him spellbound in serene creation,  
 ending inside beginning, in ending begins." — Rainer Maria Rilke  
@@ -171,6 +195,10 @@ in you: one day you'll be wholly fulfilled." — Rainer Maria Rilke
 
 ---
 
+"Worship as though it is the last act in your life." — Hadith Qudsi
+
+---
+
 "O soothing cautery!  
 O wound that is a joy!  
 O gentle hand! O delicate touch  
@@ -187,6 +215,10 @@ the gatelike open heart \[...\]
 Not less than the subtle [[secret]] sum  
 of intuition winning us inside in silence  
 like a quietly playing child of cosmic union." — Rainer Maria Rilke  
+
+---
+
+"O Allah! Illuminate my exterior with my obedience to You, my interior with Your love, my heart with [[witness]]ing of You, my soul with the most profound knowledge of You, and my innermost being with the contemplation of Your divine presence, O You Who are the Possessor of glory and noble generosity." — Iman \`Ali
 
 ---
 
@@ -233,6 +265,14 @@ for love gives power to my life,
 however black and blind my day,  
 to yield my soul, and free of strife  
 to rest - living darkly with no ray." — St John of the Cross  
+
+---
+
+"I have found complete abstention from the world (_zuhd_) in two phrases of the Qur'an: "...in order that you not be saddened over what has passed you by nor rejoice over what He has given you. \[57:23\]" — Iman \`Ali
+
+---
+
+"It is not perfected except by one who possesses the utmost sagacity and passion, who is not distracted and does not allow his attention to stray. He knows, therefore he is humble and steadfast while standing in resignation, longing, patience and anticipation; he envisages his goal and his heart is completely humbled before Allah." — Hadith Qudsi
 
 ---
 

@@ -29,3 +29,5 @@ our promised due.
 ### Traces
 
 * [The reason for you and I](https://www.youtube.com/watch?v=4BtqElO1OX4)
+
+* [Memory I](https://www.ourmachine.net/writing/memory-i/)

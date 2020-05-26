@@ -25,3 +25,5 @@ all in thrall before the throne.
 ---
 
 ### Traces
+
+* [al-Kaʿbah al-Musharrafah](https://www.youtube.com/watch?v=qXAewLnAPw8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=16)

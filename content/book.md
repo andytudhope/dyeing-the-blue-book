@@ -16,3 +16,5 @@ into wide [[blue]] emptiness.
 ---
 
 ### Traces
+
+* [Augmented conversations and the shape of wandering](http://a9.io/glue-comic/)
