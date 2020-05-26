@@ -60,11 +60,6 @@ img {
   border-radius: 10px;
 }
 
-.container {
-  border-right: 1px solid rgb(255,255,255);
-  border-left: 1px solid rgb(255,255,255);
-}
-
 .refs-box {
   margin-top: 20px;
 }
@@ -95,31 +90,26 @@ img {
   @apply bg-indigo-600 px-1 -mx-1 rounded;
 }
 
-.handwritten-notes-img {
-  position: relative;
-  z-index: 0;
-}
-
-.handwritten-notes-content {
-  position: absolute;
-  top: 140px;
-  width: 400px;
-  color: transparent;
-  z-index: 0;
-}
-
 /* purgecss start ignore */
 
-.handwritten-notes-content a {
-  color: transparent;
+.note-container {
+  max-width: 100vw;
+  border-right: 1px solid rgb(255,255,255);
+  border-left: 1px solid rgb(255,255,255);
 }
 
-.handwritten-notes-content a[href='/ipad'] {
-  position: absolute;
-  z-index: 2;
-  display: block;
-  top: 310px;
-  left: calc(50% - 63px);
+.note-container:first-child {
+  border-left: none;
+}
+
+@media (max-width: 768px) {
+  .note-columns-container {
+    width: unset !important;
+  }
+
+  .note-container {
+    width: 100% !important;
+  }
 }
 
 /* purgecss end ignore */

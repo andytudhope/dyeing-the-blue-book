@@ -44,7 +44,7 @@ and I am his." — The Song of Songs
 
 "My Earth and My Heaven cannot contain Me, but the heart of My faithful servant contains Me." — Hadith Qudsi
 
---
+---
 
 "Out of all things comes oneness  
 and from oneness comes all things" — Herakleitos  

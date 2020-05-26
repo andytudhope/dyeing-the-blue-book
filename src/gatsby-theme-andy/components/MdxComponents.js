@@ -1,42 +1,31 @@
 import React from 'react';
-import { Link, navigate, withPrefix } from 'gatsby';
 import Tippy from '@tippyjs/react';
-import qs from 'querystring';
+import { LinkToStacked } from 'react-stacked-pages-hook';
+import { Link } from 'gatsby';
 
 // Animation styles are imported in `src/styles.css`
 
-const AnchorTag = ({ href, popups = {}, index, ...restProps }) => {
-  if (!href.match(/^http/))
-    return (
-      <Tippy content={popups[href.replace(/^\//, '')]} placement="right" animation="shift-away">
-        <Link
-          {...restProps}
-          to={href}
-          onClick={(ev) => {
-            ev.preventDefault();
-            const search = qs.parse(window.location.search.replace(/^\?/, ''));
-            let stackedNotes = search.stackedNotes || [];
-            if (typeof stackedNotes === 'string') {
-              stackedNotes = [stackedNotes];
-            }
-            stackedNotes.splice(index, stackedNotes.length - index, href);
-            search.stackedNotes = stackedNotes;
-            navigate(
-              `${window.location.pathname.replace(withPrefix(''), '')}?${qs.stringify(search)}`
-            );
+// TODO cmd+click open page in new tab
 
-            // TODO: if note is already open - scrollback to it
-          }}
-        />
+const AnchorTag = ({ href, popups = {}, noPopups = false, ...restProps }) => {
+  if (!href) href = restProps.to;
+  if (!href.match(/^http/))
+    return noPopups ? (
+      <Link {...restProps} to={href} />
+    ) : (
+      <Tippy content={popups[href.replace(/^\//, '')]} placement="right" animation="shift-away">
+        <LinkToStacked {...restProps} to={href} />
       </Tippy>
     );
-  return (
+  return noPopups ? (
+    <a {...restProps} href={href} />
+  ) : (
     <Tippy
       placement="top"
       animation="shift-away"
       maxWidth="none"
       content={
-        <div className="py-1 px-2 bg-white rounded text-sm text-gray-600 shadow">{href}</div>
+        <div className="py-1 px-2 bg-white rounded text-sm text-blue-600 shadow">{href}</div>
       }
     >
       <a className="whitespace-no-wrap" {...restProps} href={href} />

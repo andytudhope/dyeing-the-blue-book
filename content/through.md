@@ -34,4 +34,4 @@ moment of human consciousness.
 
 ### Traces
 
-* [Step forward](https://youtu.be/pdb6t2FcpMU?t=43)
+* [Step forward](https://www.youtube.com/watch?v=pdb6t2FcpMU&t=43)
