@@ -20,6 +20,6 @@ our secret garden,
 
 ### Traces
 
-* ["There's a nice dog here, you'd like him"](https://www.youtube.com/watch?v=mhyD2qchkEw)(
+* ["There's a nice dog here, you'd like him"](https://www.youtube.com/watch?v=mhyD2qchkEw)
 
 * [Dreaming spring](https://www.poetseers.org/spiritual-and-devotional-poets/contemp/alan-jacobs/spring/)

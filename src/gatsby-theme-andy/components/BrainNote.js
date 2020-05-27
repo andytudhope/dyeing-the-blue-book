@@ -70,10 +70,10 @@ const BrainNote = ({ note }) => {
               Explore the full {' '}
               <a href="https://www.youtube.com/playlist?list=PL5ClmaG2tnPM3sgzhHmEhxitzdX0latyD" target="_blank" rel="noopener noreferrer">
                 YouTube playlist
-              </a>{' '} or
+              </a>{' '} or {' '}
               <a href="https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK" target="_blank" rel="noopener noreferrer">
                 The Blue Book playlist
-              </a>{' '} or the
+              </a>{' '} or the {' '}
               <a href="https://www.youtube.com/playlist?list=PL5ClmaG2tnPOSeeVkPwtLIh5UjjFHcTKj" target="_blank" rel="noopener noreferrer">
                 Living playlist
               </a>. You can also @ me on{' '}

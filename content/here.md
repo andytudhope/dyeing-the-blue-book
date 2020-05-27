@@ -5,21 +5,21 @@ title: Eternal Companion
 Hear him cry,  
 o worthy reciter.  
 Surely your tears have the ring  
-of truth.  
+of [[truth]].  
   
 Meanwhile,  
 the whales have returned  
 to our wide bay to breed;  
 giants of the deep undergoing  
-their own soul journey,  
-stopped here  
-for the love of what you read,  
-a book revealed  
+their own [[soul]] journey,  
+stopped [[here]]  
+for the [[love]] of what you [[read]],  
+a [[book]] revealed  
 for all the worlds.  
   
-Might and mercy  
+Might and [[mercy]]  
 on a straight path   
-from the water's heart,  
+from the water's [[heart]],  
 all in thrall before the throne.  
 
 ---
