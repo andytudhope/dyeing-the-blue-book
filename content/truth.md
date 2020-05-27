@@ -12,8 +12,8 @@ the narrow gate, open [[now]]
 that no [[self]] is found to speak  
 since the messenger told his truth,   
 cosmic silence our transcendent function  
-of eternal mind, eternally   
-musing one message.  
+of eternal mind, eternally musing  
+one message.  
 
 ---
 

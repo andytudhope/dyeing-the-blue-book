@@ -12,7 +12,7 @@ the whales have returned
 to our wide bay to breed;  
 giants of the deep undergoing  
 their own [[soul]] journey,  
-stopped [[here]]  
+stopped here  
 for the [[love]] of what you [[read]],  
 a [[book]] revealed  
 for all the worlds.  
