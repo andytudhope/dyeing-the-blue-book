@@ -15,11 +15,11 @@ to the [[heart]]'s permission, plunged
 into the fragrant bliss  
 of boundless limits.  
 
+![Pastel peace](./static/pastel-peace.jpg)
+
 ---
 
 ### Traces
 
 * [Spring](https://www.youtube.com/watch?v=SEwVhidIWrU)
-
-* [Cleft asunder](https://quran.com/82)
 
