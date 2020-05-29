@@ -16,4 +16,6 @@ coming home.
 
 ### Traces
 
-* [Ya-Latif](https://www.youtube.com/watch?v=MAxdTSc_fts)
+* Ya-Latif
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/MAxdTSc_fts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

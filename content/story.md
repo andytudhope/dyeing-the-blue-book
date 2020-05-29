@@ -57,4 +57,6 @@ which has deepened into joy.
 
 ### Traces
 
-* [Go on living with it](https://www.youtube.com/watch?v=eyn9kmuIwqA)
+* Go on living with it
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/eyn9kmuIwqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

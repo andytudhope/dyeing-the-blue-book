@@ -31,4 +31,6 @@ dawning [[light]].
 
 ## Traces
 
-* [Heaven's wings](https://www.youtube.com/watch?v=kEvTWGgtS2o)
+* Heaven's wings
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/kEvTWGgtS2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

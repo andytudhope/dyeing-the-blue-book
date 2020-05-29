@@ -21,5 +21,7 @@ of boundless limits.
 
 ### Traces
 
-* [Spring](https://www.youtube.com/watch?v=SEwVhidIWrU)
+* Spring
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/SEwVhidIWrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

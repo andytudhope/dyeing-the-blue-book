@@ -25,4 +25,6 @@ cutting My[[self]]?
 
 ### Traces
 
-* ["Will you not remember?"](https://www.youtube.com/watch?v=cy5rHvAo6ec)
+* "Will you not remember?"
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/cy5rHvAo6ec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

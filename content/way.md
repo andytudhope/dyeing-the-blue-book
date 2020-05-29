@@ -54,5 +54,7 @@ to reach out and ask.
 
 ### Traces
 
-* [Here's where the stories live, here with the peace](https://www.youtube.com/watch?v=-oWB8f-Ov7k&lc=Ugh4psaHeUv5CngCoAEC)
+* Here's where the stories live, here with the peace
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/-oWB8f-Ov7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

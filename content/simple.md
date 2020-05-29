@@ -23,4 +23,6 @@ in worship, al[[way]]s.
 
 ### Traces
 
-* [No more audiences](https://www.youtube.com/watch?v=h8oBJSArU_0)
+* No more audiences
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/h8oBJSArU_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -27,4 +27,6 @@ of this evening.
 
 ### Traces
 
-* [Still mind](https://www.youtube.com/watch?v=6uUCtkRRETw)
+* Still mind
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/6uUCtkRRETw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

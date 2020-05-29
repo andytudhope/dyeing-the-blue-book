@@ -19,5 +19,7 @@ at rest in its own [[remember]]-dance.
 
 ### Traces
 
-* [The threads](https://www.youtube.com/watch?v=_2DyvF03isM)
+* The threads
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/_2DyvF03isM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

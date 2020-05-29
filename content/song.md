@@ -34,4 +34,6 @@ entirely remarkable.
 
 * [Bluets](https://thecheapestuniversity.org/wp-content/themes/TCU/j/pdfjs/web/viewer.html?file=https://thecheapestuniversity.org/wp-content/uploads/2016/12/maggie-nelson-bluets.pdf)
 
-* "I will make him know gratitude which is not mixed with ignorance, and remembrance which is not mixed with forgetfulness and a [love which is higher](https://www.youtube.com/watch?v=hVoz9PszKnM) than the love for all creation" — Hadith Qudsi
+* "I will make him know gratitude which is not mixed with ignorance, and remembrance which is not mixed with forgetfulness, and a **love which is higher** than the love for all creation" — Hadith Qudsi
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/hVoz9PszKnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

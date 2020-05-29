@@ -32,4 +32,6 @@ and the end in our beginning.
 
 ### Traces
 
-* [Magic horses](https://www.youtube.com/watch?v=Y7ThW3BKY_w)
+* Magic horses
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/Y7ThW3BKY_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -15,6 +15,8 @@ struck by night's k[[now]]ing.
 
 ### Traces
 
-* [Dark twin](https://emergencemagazine.org/story/mud-and-antler-bone/)
+* [Dark twin's](https://emergencemagazine.org/story/mud-and-antler-bone/)
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/ShmmBWlbbXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

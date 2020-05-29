@@ -18,4 +18,6 @@ in divinity.
 
 ### Traces
 
-* [I don't shine if you don't shine](https://www.youtube.com/watch?v=zc8hbSM1zVo)
+* I don't shine if you don't shine
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/zc8hbSM1zVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,5 +1,5 @@
 ---
-title: Uniity
+title: Unicity
 ---
 
 Have you gone through the door  
@@ -33,4 +33,6 @@ does [[not]] exist.
 
 ### Traces
 
-* [Before you leave](https://www.youtube.com/watch?v=WWi4I6XO8pw)
+* Before you leave
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/WWi4I6XO8pw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

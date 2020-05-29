@@ -28,4 +28,6 @@ this wide world:
 
 ### Traces
 
-* [Meaning held outside words](https://www.youtube.com/watch?v=QtiTfejYpgs&lc=UghYMC9oyPglQHgCoAEC)
+* Meaning held outside words
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/QtiTfejYpgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

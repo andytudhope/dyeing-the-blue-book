@@ -28,4 +28,6 @@ first breath of [[life]].
 
 ### Traces
 
-* [Grace](https://www.youtube.com/watch?v=wUQH-hGjK28)
+* Grace
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/wUQH-hGjK28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

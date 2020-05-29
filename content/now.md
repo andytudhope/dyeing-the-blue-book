@@ -8,7 +8,7 @@ by a desert fire to watch the spirits
 of all seven worlds dance  
 this mighty night away,  
 no longer scared of the headless king  
-riding down this [[line]]  
+riding down his [[line]]  
 clattering spears and screaming death,  
 nor avoiding our mounting doom  
 and the fool's [[hope]] we wouldn't fail,  
@@ -27,4 +27,6 @@ used to living [[death]]:
 
 ### Traces
 
-* [Ride for ruin](https://www.youtube.com/watch?v=EmTz7EAYLrs)
+* Ride for ruin
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/EmTz7EAYLrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

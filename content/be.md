@@ -26,4 +26,6 @@ if you can see it for your[[self]]?
 
 ## Traces
 
-* [Everything you do is a work of art](https://www.youtube.com/watch?v=Q57xFhaZYxw)
+* Everything you do is a work of art
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/Q57xFhaZYxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -19,4 +19,6 @@ of shame and honour.
 
 ## Traces
 
-* [Lovers](https://www.youtube.com/watch?v=KqfScrUXYIc&t=18s)
+* Lovers
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/KqfScrUXYIc?start=18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

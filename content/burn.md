@@ -25,4 +25,6 @@ more return.
 
 ### Traces
 
-* [Beaten](https://www.youtube.com/watch?v=YItw1gGoKS8)
+* Hooked
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/Kt-tLuszKBA?start=630" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

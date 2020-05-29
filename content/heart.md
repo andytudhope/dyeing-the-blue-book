@@ -26,4 +26,6 @@ at home in horrible beauty.
 
 * [An-Nasr](https://quran.com/110)
 
-* [What can I do?](https://www.youtube.com/watch?v=lE5arf6PQCo)
+* What can I do?
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/lE5arf6PQCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

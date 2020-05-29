@@ -22,4 +22,6 @@ returned to sing its imperfection.
 
 ### Traces
 
-* [Working with this light](https://www.youtube.com/watch?v=wDywF8sOKD8)
+* Working with this light
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/wDywF8sOKD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

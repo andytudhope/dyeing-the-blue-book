@@ -22,4 +22,6 @@ failure, will we find the open
 
 ### Traces
 
-* [Lightyears away, almost home](https://www.youtube.com/watch?v=76ffvyOYoaQ)
+* Lightyears away, almost home
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/76ffvyOYoaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

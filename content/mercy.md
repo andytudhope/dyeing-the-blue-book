@@ -18,4 +18,6 @@ waving madly.
 
 ### Traces
 
-* [Look again](https://www.youtube.com/watch?v=n6oSeODGmoQ)
+* Look again
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/n6oSeODGmoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

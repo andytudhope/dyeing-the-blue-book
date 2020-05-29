@@ -15,7 +15,9 @@ after fasting.
 
 ### Traces
 
-* [A hymn to emptiness](https://www.youtube.com/watch?v=zt37Yb2hN5E&list=RDr6veaj2gst8)
+* A hymn to emptiness
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/zt37Yb2hN5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

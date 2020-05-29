@@ -29,4 +29,6 @@ Your sheer, Your stunning Face.
 
 ### Traces
 
-* [Convergence](https://www.youtube.com/watch?v=l6oh14vfhlI&t=240s)
+* Convergence
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/l6oh14vfhlI?start=240" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

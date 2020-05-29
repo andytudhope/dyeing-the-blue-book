@@ -28,4 +28,6 @@ Perfection.
 
 ### Traces
 
-* [Inshallah](https://www.youtube.com/watch?v=Ellnq_KQ824)
+* Inshallah
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/Ellnq_KQ824" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

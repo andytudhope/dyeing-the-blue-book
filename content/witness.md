@@ -22,4 +22,6 @@ to same [[sea]].
 
 ### Traces
 
-* [God telling me](https://www.youtube.com/watch?v=Jm3EF0XZ6Ms)
+* God telling me
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/Jm3EF0XZ6Ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

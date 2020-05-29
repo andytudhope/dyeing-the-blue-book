@@ -28,6 +28,8 @@ our promised due.
 
 ### Traces
 
-* [The reason for you and I](https://www.youtube.com/watch?v=4BtqElO1OX4)
-
 * [Memory I](https://www.ourmachine.net/writing/memory-i/)
+
+* The reason for you and I
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/4BtqElO1OX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -24,4 +24,6 @@ cycling life.
 
 ### Traces
 
-* [Outside there's a world of light](https://www.youtube.com/watch?v=O__LlTV2qi0)
+* Outside there's a world of light
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/O__LlTV2qi0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

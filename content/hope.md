@@ -30,4 +30,6 @@ bright chest.
 
 ### Traces
 
-* [The healing we took birth for](https://www.youtube.com/watch?v=HyEsMMPS_OQ)
+* The healing we took birth for
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/HyEsMMPS_OQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

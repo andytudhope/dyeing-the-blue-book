@@ -64,6 +64,12 @@ img {
   margin-top: 20px;
 }
 
+.video {
+  width:90%;
+  height: 315px;
+  margin: 0 auto;
+}
+
 @tailwind components;
 
 /* copied from tippy.js/animations/shift-away.css */

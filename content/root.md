@@ -25,6 +25,10 @@ There is only [[truth]].
 
 ### Traces
 
-* [Allah's is the east and the west](https://www.youtube.com/watch?v=7F5HND4F6Fo)
+* Allah's is the east and the west
 
-* [The roots and branches](https://www.youtube.com/watch?v=xB_EEFcM6TE)
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/7F5HND4F6Fo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* The roots and branches
+
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/xB_EEFcM6TE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
