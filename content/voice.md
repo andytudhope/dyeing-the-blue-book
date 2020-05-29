@@ -110,6 +110,10 @@ someone spells me out." — Octavio Paz
 
 ---
 
+"Or how well disposed would you have to become to yourself and to life to long for nothing more fervently than for this ultimate eternal confirmation and seal? \[...\] Of course you can choose anything you want, to raise children or get married, but don’t pretend to do it because these things have some sort of intrinsic value — they don’t. Do it solely because you chose them and are willing to own up to them. In the story of our lives, these choices are ours and ours alone, and this is what gives things, all things, value. Only when one realizes this is he or she prepared to face the eternal recurrence, the entire cycle, without the risk of being crushed. Only then is one able to say with Yeats, '[A]nd yet again,' and truly mean it \[...\] Perhaps the hardest part of the eternal return is to own up to the tortures that we create for ourselves and those we create for others. Owning up: to recollect, to regret, to be responsible, ultimately to forgive and love." — [John J. Kaag](https://www.brainpickings.org/2018/12/19/hiking-with-nietzsche-john-kaag-eternal-return/)
+
+---
+
 "What is common we must do.  
 Though the word is both common and universal,  
 we live as if we possessed a private intelligence. — Herakleitos  
@@ -136,6 +140,10 @@ from feeling of my own.
 My mind had found a surer way:  
 a knowledge by unknowing,  
 rising beyond all science." — St John of the Cross  
+
+---
+
+"The skill of writing is to create a context in which other people can think." — Edwin Schlossberg
 
 ---
 
