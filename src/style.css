@@ -116,6 +116,10 @@ img {
   .note-container {
     width: 100% !important;
   }
+
+  .video {
+    height: 245px;
+  }
 }
 
 /* purgecss end ignore */
