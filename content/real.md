@@ -3,7 +3,7 @@ title: Real Dream
 ---
 
 [[Burn]]ing day: set a[[light]]  
-by how we danced last night,  
+by how we danced last [[night]],  
 feeling you right [[here]], held  
 against me while we moved  
 as one.  
@@ -19,7 +19,7 @@ This [[self]]-exciting Reality
 wants separation,  
 so I give up  
 my desire for small [[love]]  
-and spend this little time  
+and spend this little [[time]]  
 learning how to fly,  
 and why [[heaven]] has boundaries,  
 and how to be with trees  

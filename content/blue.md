@@ -8,7 +8,7 @@ in this forever moment:
   
 no more me.  
   
-Just [[light]] and water and  
+Just [[light]] and [[water]] and  
 one crashing sound  
 coming home. 
 

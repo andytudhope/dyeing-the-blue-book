@@ -16,7 +16,7 @@ and somehow this fool [[remember]]s
 the three magi  
 with their many mirrors for each  
 moment,  
-the [[real]] holy laughter hidden in  
+the [[real]] [[holy]] laughter hidden in  
 each meaningless choice made  
 meaningful by the simple magic of   
 reflection.  

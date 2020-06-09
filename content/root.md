@@ -3,7 +3,7 @@ title: Rooted Routes
 ---
 
 Who walked this wide expanse  
-last night, opened by waxing [[light]],  
+last [[night]], opened by waxing [[light]],  
 and sang a fragrant [[line]]?  
   
 Or fell to their knees on the sand,  

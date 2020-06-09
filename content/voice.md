@@ -100,7 +100,7 @@ for love is as strong as death." — The Song of Songs
 ---
 
 "I am a man: little do I last  
-and the night is enormous.  
+and the [[night]] is enormous.  
 But I look up:  
 the stars write.  
 Unknowing I understand:  
@@ -147,7 +147,12 @@ rising beyond all science." — St John of the Cross
 
 ---
 
-"Time is one spreading ring wrapped around another, outward and outward until the thinnest skin of [[Now]] depends for its being on the enormous mass of everything that has already died." — Richard Powers  
+"Purity does not lie in separation from but in deeper penetration into the universe \[...\] The world is filled, and filled with the Absolute. To see this is to be made free." — Teilhard de Chardin
+
+---
+
+
+"[[Time]] is one spreading ring wrapped around another, outward and outward until the thinnest skin of [[Now]] depends for its being on the enormous mass of everything that has al[[read]]y died." — Richard Powers  
 
 ---
 
@@ -177,7 +182,7 @@ inside this Gate of the Dao, by altars of eternity?" — Wang Wei
 ---
 
 "All things stay at reast:  
-darkness and holy [[light]],  
+darkness and [[holy]] [[light]],  
 flower and [[book]]." — Rainer Maria Rilke  
 
 ---
@@ -208,7 +213,7 @@ in you: one day you'll be wholly fulfilled." — Rainer Maria Rilke
 ---
 
 "O soothing cautery!  
-O wound that is a joy!  
+O wound that is a [[joy]]!  
 O gentle hand! O delicate touch  
 tasting of eternity,  
 repaying every debt.  
@@ -223,6 +228,10 @@ the gatelike open heart \[...\]
 Not less than the subtle [[secret]] sum  
 of intuition winning us inside in silence  
 like a quietly playing child of cosmic union." — Rainer Maria Rilke  
+
+---
+
+"He unrolled the scroll of the air, extended it, and bent it into Möbius strips; he furled line in a thousand new ways, as if he were inventing a script and writing it in one infinitely recurving utterance until I thought the bounds of beuaty must break." - Annie Dillard, writing about Dave Rahm
 
 ---
 

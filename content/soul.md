@@ -7,7 +7,7 @@ to see the worlds entirely,
 except for you, old soul, who saw  
 the joke of non-existence  
 and didn't delay when you discovered  
-that sensual crack in time and its  
+that sensual crack in [[time]] and its  
 terrifying punch[[line]]:  
 there's no-one to even laugh with you  
 as you feel this one dissolve  

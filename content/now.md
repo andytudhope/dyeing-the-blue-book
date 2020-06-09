@@ -5,8 +5,8 @@ title: Right Away
 You and I, sweet [[love]],  
 have lost it all, sat quietly  
 by a desert fire to watch the spirits  
-of all seven worlds dance  
-this mighty night away,  
+of our seven worlds dance  
+this mighty [[night]] away,  
 no longer scared of the headless king  
 riding down his [[line]]  
 clattering spears and screaming death,  

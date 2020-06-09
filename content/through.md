@@ -21,7 +21,7 @@ in the desert breeze.
 This body feels it, all the pieces  
 it has been [[be]]fore,  
 atomised again and again  
-since that timeless night,  
+since that timeless [[night]],  
 [[now]] gathered  
 to make _salat_  
 and say a [[simple]] [[prayer]] of thanks  

@@ -8,7 +8,7 @@ and we walkers
 of the wilderness within  
 without which we won't survive,  
 [[here]] to do the work  
-and trust we'll find Your track  
+and [[trust]] we'll find Your track  
 as we wander, lost,  
 [[through]] the gift of an ebony grove  
 growing beyond what we could want.  

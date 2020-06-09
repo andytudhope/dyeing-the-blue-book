@@ -2,9 +2,9 @@
 title: Moon Strike
 ---
 
-Tonight, the waning moon  
+To[[night]], the waning moon  
 rose into a [[light]]ning storm,  
-rolling thunder over a [[white]] water road:  
+rolling thunder over a [[white]] [[water]] road:  
 these few words my [[hope]]less offering  
 in service of a bright [[sea]]  
 struck by night's k[[now]]ing.

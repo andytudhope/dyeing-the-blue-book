@@ -33,7 +33,7 @@ piece of driftwood drawing itself,
 inch by tidal inch, back to whence it came  
 and now everything is glowing [[white]]  
 across the glimmering waves,  
-which mark their passing on these empty miles   
+which mark their passing on these [[empty]] miles   
 and I can barely bring my[[self]]   
 to see such boundless overwhelm,  
 so I sing remembrance and bodysurf  
@@ -50,8 +50,8 @@ what a moment means and how she still
 had to come back, and get trapped,  
 just so she could remind him - silly man! -  
 to make his [[way]] back to [[simple]] words:   
-his holy unimportant duty  
-which has deepened into joy.  
+his [[holy]] unimportant duty  
+which has deepened into [[joy]].  
 
 ---
 

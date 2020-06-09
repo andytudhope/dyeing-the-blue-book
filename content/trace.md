@@ -26,4 +26,4 @@ Therefore, I will take just one exemplary _ayat_ from _Surah Ya-Sin_, also known
 
 ---
 
-There is, of course, much more to say about this notion of an "original trace" or _fitrah_ and the Adamic blueprint, though it is perhaps better left for your own discovery. Meanwhile, please enjoy the next set of [musical traces](https://www.youtube-nocookie.com/playlist?list=PL5ClmaG2tnPM3sgzhHmEhxitzdX0latyD) made from a digital book. What a time to be a[[live]]!
+There is, of course, much more to say about this notion of an "original trace" or _fitrah_ and the Adamic blueprint, though it is perhaps better left for your own discovery. Meanwhile, please enjoy the next set of [musical traces](https://www.youtube-nocookie.com/playlist?list=PL5ClmaG2tnPM3sgzhHmEhxitzdX0latyD) made from a digital book. What a [[time]] to be a[[live]]!

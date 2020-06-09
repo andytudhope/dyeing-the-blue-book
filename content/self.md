@@ -15,7 +15,7 @@ beside the sacred house rebuilt, right
 where steadfast ants last buried a seed  
 deep beneath the black keystone,   
 only to [[be]] [[broken]] free  
-by this prehistoric holy fire,   
+by this prehistoric [[holy]] fire,   
 returned to sing its imperfection.   
 
 ---

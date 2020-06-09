@@ -22,7 +22,7 @@ of our flimsy little fence.
   
 Tonight I got to share  
 this favourite tree and then  
-went walking on water.  
+went walking on [[water]].  
   
 The wide horizon ringed by red;  
 and the [[moon]] half full;  
@@ -44,7 +44,7 @@ to this guardian tree
 and it told me  
 how gentle our path is,   
 a [[secret]] forest orchid in flower,   
-carved outside time  
+carved outside [[time]]  
 in a trunk that [[remember]]s stillness  
 and [[will]] show you  
 if you simply have the courage  

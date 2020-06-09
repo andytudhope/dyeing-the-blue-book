@@ -7,7 +7,7 @@ have you found
 solidarity with every act of suffering  
 since the [[be]]ginning of this world,  
 and are you steadfast  
-in the trust  
+in the [[trust]]  
 that it is only One  
 who [[will]] stand trial?  
   

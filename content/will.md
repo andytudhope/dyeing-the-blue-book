@@ -7,7 +7,7 @@ made entirely by [[moon]][[light]]
 moving [[through]] the wooden  
 bars of my balcony  
 as the baritone ocean busks  
-for an empty beach in the background,   
+for an [[empty]] beach in the background,   
 and I am brought to my knees  
 by the healing birth took me for,  
 knowing there is no [[way]] out  
