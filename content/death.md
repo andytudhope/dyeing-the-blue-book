@@ -23,14 +23,14 @@ doused and all we'd done destroyed.
 Dazed by the dark [[light]] we sat down,  
 quietly, the old man and me,  
 and watched smoke scent  
-newly opened space.   
+newly opened [[space]].   
     
     
 The he smiled,   
-the old man at me, and peace  
+the old man at me, and [[peace]]  
 was proffered in this pilfered [[holy]] place,  
 our sacrifice perfected  
-in the silence of God's play.   
+in the [[silence]] of God's play.   
 
 ---
 

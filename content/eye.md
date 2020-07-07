@@ -4,7 +4,7 @@ title: Two Eyes
 
 The eye of [[truth]] lives  
 in this world  
-of shadow,   
+of [[shadow]],   
   
 the eye of darkness  
 in that world  

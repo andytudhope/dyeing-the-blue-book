@@ -6,7 +6,7 @@ I freed a Cape Robin
 and felt her tiny [[heart]] pulsing,  
 felt the clean fear of no [[way]] out  
 and the great courage to let herself  
-be held, the heroic surrender  
+be held, the heroic [[surrender]]  
 she gave in to, having found  
 that you cannot break the glass your[[self]].   
   

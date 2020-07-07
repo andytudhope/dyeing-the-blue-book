@@ -28,7 +28,7 @@ and say a [[simple]] [[prayer]] of thanks
 with what was thorn and pebble,  
   
 finally given one  
-moment of human consciousness.  
+[[moment]] of human consciousness.  
 
 ---
 

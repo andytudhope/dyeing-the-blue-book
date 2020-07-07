@@ -4,7 +4,7 @@ title: Little Blue
 
 Three joint stages of breaking blue  
 on the ride back in to shore and,  
-in this forever moment:  
+in this forever [[moment]]:  
   
 no more me.  
   

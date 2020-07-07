@@ -5,7 +5,7 @@ title: Not That
 It's not the endless play of [[light]]  
 when you close your [[eye]]s,   
 nor how every cell seems to open   
-into peace.  
+into [[peace]].  
   
 It's not bird[[song]]  
 nor breaking waves.  
@@ -22,7 +22,7 @@ just to [[be]] reminded
 how human you [[real]]ly are,  
 nor the golden sunrise  
 flooding though your window,  
-[[will]]ing you to write  
+[[will]]ing you to [[write]]  
 what mortal really means.  
   
 It's all these things  

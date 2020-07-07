@@ -19,7 +19,7 @@ in a winter afternoon,
 wandering back to the old [[song]]  
 I sang you as we swam  
 our horses across the _Mzintlava_,  
-in [[love]] for a moment  
+in [[love]] for a [[moment]]  
 and forever.  
 
 ---

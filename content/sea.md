@@ -3,7 +3,7 @@ title: Holy See
 ---
 
 [[Here]] I sit, watching  
-the [[sea]], hungry and fearful  
+the sea, hungry and fearful  
 and utterly fulfilled.  
   
 I have felt brightness  

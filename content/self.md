@@ -4,7 +4,7 @@ title: Indebted
 
 Your [[love]] is [[light]] focused  
 in my [[heart]], that first messenger  
-at last arrived to take the signed [[will]]  
+at last arrived to take the [[signed]] [[will]]  
 from this bewildered debtor  
 and make certain deliverance  
 by dint of one declaration,  

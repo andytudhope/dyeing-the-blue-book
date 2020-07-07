@@ -25,8 +25,8 @@ Those who the stars count
 as friends  
 k[[now]] the [[moon]] more intimately  
 than even searching sunlight,  
-stretching the Earth's middle shadow  
-oddly in a space which, finally,  
+stretching the Earth's middle [[shadow]]  
+oddly in a [[space]] which, finally,  
 does [[not]] exist.  
 
 ---

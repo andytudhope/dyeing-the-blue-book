@@ -11,7 +11,7 @@ and now asks me, directly,
 what the Day of Judgement is?"  
   
 and, when you think you've got it;  
-this moment right [[now]],  
+this [[moment]] right [[now]],  
 with the [[sea]]'s first winter rainbow  
 rippling into being:  
   

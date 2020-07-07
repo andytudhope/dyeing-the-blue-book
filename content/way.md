@@ -27,7 +27,7 @@ went walking on [[water]].
 The wide horizon ringed by red;  
 and the [[moon]] half full;  
 and the incoming tide   
-the colour of peace  
+the colour of [[peace]]  
 as I knelt in wet sand  
 with a sand plover perfectly reflected   
 where land meets sea so that  

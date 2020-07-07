@@ -16,7 +16,7 @@ at the thought that we could [[read]] her
 in the pin-pricked past,  
 that a collection of signs could surpass  
 all this:  
-a cosmos at every moment, and wakeful,  
+a cosmos at every [[moment]], and wakeful,  
 even in the dark.  
 
 ---

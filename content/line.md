@@ -3,7 +3,7 @@ title: Unfolding
 ---
 
 I saw the whole line  
-before coming [[here]] to write this,  
+before coming [[here]] to [[write]] this,  
 sitting quietly at a fire  
 waiting for the [[moon]],   
 when you looked into my [[eye]]s  

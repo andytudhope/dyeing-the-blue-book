@@ -5,7 +5,7 @@ title: Floating Tales
 A butterfly just butted in  
 and is being quite belligerent.  
   
-I must begin to write,  
+I must begin to [[write]],  
 though what it is I cannot say,  
 opening the [[heart]] of her orange wings  
 tipped white then back to black   
@@ -27,7 +27,7 @@ of rotting wood and fresh earth
 and [[root]]s which reach right across  
 the layers of litter lit up  
 with a [[light]] so fierce I sneeze  
-as I step onto the beach,  
+as I step onto the [[beach]],  
 my monarch guide gracing the single  
 piece of driftwood drawing itself,  
 inch by tidal inch, back to whence it came  
@@ -46,7 +46,7 @@ that it's [[not]] my story, but hers:
 a tale of how she found a human   
 who could hear her, and hauled him  
 before the morning light so he could learn  
-what a moment means and how she still  
+what a [[moment]] means and how she still  
 had to come back, and get trapped,  
 just so she could remind him - silly man! -  
 to make his [[way]] back to [[simple]] words:   

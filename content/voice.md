@@ -55,7 +55,7 @@ and from oneness comes all things" — Herakleitos
 
 ---
 
-"In one moment of attraction the beggar becomes the king and in one instant a mountain mass is reduced to straw.  
+"In one [[moment]] of attraction the beggar becomes the king and in one instant a mountain mass is reduced to straw.  
 Step out on the path of the master Muhammad's _mi'raj_ and delight in all the mighty signs." — Shaykh Sa'd ud-Dīn Mahmūd Shabistārī  
 
 ---
@@ -102,7 +102,7 @@ for love is as strong as death." — The Song of Songs
 "I am a man: little do I last  
 and the [[night]] is enormous.  
 But I look up:  
-the stars write.  
+the stars [[write]].  
 Unknowing I understand:  
 I too am written,  
 and at this very moment  
@@ -126,7 +126,7 @@ we live as if we possessed a private intelligence. — Herakleitos
 ---
 
 "It was the perfect realm  
-of holiness and peace.  
+of holiness and [[peace]].  
 In deepest solitude  
 I found the narrow [[way]]:  
 a secret giving such release  
@@ -173,7 +173,7 @@ ending inside beginning, in ending begins." — Rainer Maria Rilke
 ---
 
 "Thin branches have the winged noise of chaos.  
-A cold [[moon]] tumbles into random shadows.  
+A cold [[moon]] tumbles into random [[shadow]]s.  
 Musicians shape bamboo into dragon pipes,  
 fisherman cut them into fishing poles.  
 How can ordinary bamboo compare with green crystal  
@@ -181,7 +181,7 @@ inside this Gate of the Dao, by altars of eternity?" — Wang Wei
 
 ---
 
-"All things stay at reast:  
+"All things stay at rest:  
 darkness and [[holy]] [[light]],  
 flower and [[book]]." — Rainer Maria Rilke  
 
@@ -221,12 +221,16 @@ Killing, you turn my [[death]] to life." — St John of the Cross
 
 ---
 
+"On a true mystical path, one has lost so much. One is so lost. And at the same time, life becomes more alive, more dynamic. It has always been the emptiness at the center that allows things to happen." — Llewellyn Vaughan-Lee
+
+---
+
 "The god of true mercy  
 would enter differently the pure, the vast  
 the gatelike open heart \[...\]  
   
 Not less than the subtle [[secret]] sum  
-of intuition winning us inside in silence  
+of intuition winning us inside in [[silence]]  
 like a quietly playing child of cosmic union." — Rainer Maria Rilke  
 
 ---
@@ -285,7 +289,15 @@ to rest - living darkly with no ray." — St John of the Cross
 
 ---
 
+"This is his one guiding god. In him goeth man to his rest. Toward him goeth the long journey of the soul after death. In him shineth forth as light all that man bringeth back from the greater world. To this one god man shall pray." — Carl Gustav Jung
+
+---
+
 "I have found complete abstention from the world (_zuhd_) in two phrases of the Qur'an: "...in order that you not be saddened over what has passed you by nor rejoice over what He has given you. \[57:23\]" — Iman \`Ali
+
+---
+
+"One day, in a mood of sublime emptiness, Subhuti was resting under­neath a tree when flowers began to fall about him. “We are praising you for your discourse on emptiness,” the gods whispered to Subhuti. “But I have not spoken of empti­ness,” replied Subhuti. “You have not spoken of emptiness, we have not heard emptiness,” responded the gods. “This is the true emptiness.” The blos­soms showered upon Subhuti as rain." — related by Llewellyn Vaughan-Lee
 
 ---
 

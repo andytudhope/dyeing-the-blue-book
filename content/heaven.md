@@ -18,12 +18,12 @@ Hasten to help them dismantle the tent;
 it's [[time]] to move on and only  
 those who are [[will]]ing to help  
   
-get to see the unscripted moment  
+get to see the unscripted [[moment]]  
 where wind catches her tail  
 and sweeps the [[white]] canopy high up in  
   
-surrender and her final veil:  
-the victory of Rohanni riders,  
+[[surrender]] and her final veil:  
+the [[victory]] of Rohanni riders,  
 roused by this wedding [[night]],   
 dawning [[light]].  
 

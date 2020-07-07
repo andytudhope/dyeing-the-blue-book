@@ -19,7 +19,7 @@ behind closed [[eye]]s as the clouds bleed
 crimson and a thousand other colours beside,  
 breaking in waves which bring back  
 a brave diver drenched by the depths,   
-lying gasping on the beach, still begging  
+lying gasping on the [[beach]], still begging  
 this wide world:  
   
 "Never quench me".   

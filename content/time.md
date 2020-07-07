@@ -20,7 +20,7 @@ to you talk about time
 and how to transcend it  
 by being held fast  
 to the tale of the Prophet,  
-peace be upon him,  
+[[peace]] be upon him,  
 who [[read]] his [[heart]]  
 and herded this [[story]]  
 between bridge and barrier  

@@ -19,7 +19,7 @@ Will you then find
 shelter in the [[eye]] of the storm,  
 or sit at a loser's last supper  
 and [[trust]] that [[love]] al[[read]]y won:  
-that this is the signed [[will]] and testament  
+that this is the [[signed]] [[will]] and testament  
 if you can see it for your[[self]]?  
 
 ---

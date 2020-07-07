@@ -12,7 +12,7 @@ but today the birds
 are truly beautiful  
 and the key is just to [[trust]]  
 that they'll chime in  
-at the right moment.  
+at the right [[moment]].  
   
 The whole [[song]]  
 woven together of it[[self]]:  

@@ -12,13 +12,13 @@ is impossible to say,
 though the [[self]] that wandered with me,   
 who walked up that winding case  
 then wafted past the far horizon,  
-knows it is the perfect moment,   
+knows it is the perfect [[moment]],   
 and sits now, reflective,   
-in that peace   
+in that [[peace]]   
 of rescued past, while I clear  
 his [[empty]] plate and get on  
-with the dishes, having signed  
-my surrender to the flow of [[time]],   
+with the dishes, having [[signed]]  
+my [[surrender]] to the flow of [[time]],   
 [[trust]]ing that it will keep me  
 coming back to family dinner.     
 
